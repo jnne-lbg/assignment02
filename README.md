@@ -1,1 +1,1 @@
-This repository focuses on a script that outputs different values depending on a given expression or given value.
+Assignment 1: This repository focuses on a script that outputs different values depending on a given expression or given value.
